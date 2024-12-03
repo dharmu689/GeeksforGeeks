@@ -10,7 +10,8 @@ using namespace std;
 // } Driver Code Ends
 // User function template for C++
 
-class Solution {
+class Solution 
+{
   public:
     int getMinDiff(vector<int> &arr, int k) {
         // code here
