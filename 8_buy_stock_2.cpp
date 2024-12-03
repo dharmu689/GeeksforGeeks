@@ -6,7 +6,8 @@ using namespace std;
 
 
 // } Driver Code Ends
-class Solution {
+class Solution 
+{
   public:
     int maximumProfit(vector<int> &prices) 
     {
