@@ -8,7 +8,8 @@ using namespace std;
 
 // } Driver Code Ends
 // User function Template for C++
-class Solution {
+class Solution 
+{
   public:
     // Function to find the sum of contiguous subarray with maximum sum.
     int maxSubarraySum(vector<int> &arr) {
